@@ -1,3 +1,5 @@
+**Note: This is a customized version of Rust 1.68.2 with LLVM 13 as backend. Several compatibility issues are fixed to make it work. For now to use it, you'll have to configure and compile it from source. To see the example steps, read [INSTALL.md](INSTALL.md).**
+
 # The Rust Programming Language
 
 This is the main source code repository for [Rust]. It contains the compiler,
